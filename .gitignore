@@ -1,4 +1,4 @@
-/docker_sql/ny_taxi_postgres_data/
-/docker_sql/pipeline.py
-/docker_sql/yellow_tripdata_2021-01.csv
-/docker_sql/taxi+_zone_lookup.csv
+/Data Ingestion/docker_sql/ny_taxi_postgres_data/
+/Data Ingestion/docker_sql/pipeline.py
+/Data Ingestion/docker_sql/yellow_tripdata_2021-01.csv
+/Data Ingestion/docker_sql/taxi+_zone_lookup.csv
