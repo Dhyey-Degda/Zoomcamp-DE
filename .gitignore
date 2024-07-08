@@ -2,3 +2,5 @@
 /Data Ingestion/docker_sql/pipeline.py
 /Data Ingestion/docker_sql/yellow_tripdata_2021-01.csv
 /Data Ingestion/docker_sql/taxi+_zone_lookup.csv
+/Data Ingestion/Terraform/.terraform
+/Data Ingestion/Terraform/.terraform.lock.hcl
